@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "bin/..",
+		}
+	],
+	"settings": {
+		"files.exclude": {
+			"*.code-workspace": true,
+			"**/.git": true,
+		}
+	}
+}
